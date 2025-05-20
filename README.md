@@ -5,6 +5,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ## 🚀 Sobre Mim
 
 Sou um desenvolvedor apaixonado por criar **soluções tecnológicas que unem alta performance e experiência excepcional do usuário**. Com expertise em desenvolvimento **mobile, web e desktop**, foco em construir aplicações escaláveis e integrações perfeitas com sistemas críticos.
