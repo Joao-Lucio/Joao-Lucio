@@ -1,6 +1,6 @@
 # João Lúcio
 
-**`Desenvolvedor Front-end`** | **`Especialista em Aplicações Escaláveis`**  
+**`Desenvolvedor Front-end`** 
 📍 Roraima, Brasil | 🎂 26 anos | 🎓 Sistemas de Informação - Estácio
 
 ---
