@@ -42,7 +42,7 @@
 
 ---
 
-# 👋 Sobre mim
+# Sobre mim
 
 Desenvolvedor Front-end e Mobile com experiência no desenvolvimento de aplicações web e mobile voltadas ao segmento de **delivery** e **pagamentos**.
 
@@ -52,7 +52,7 @@ Tenho experiência com **React, React Native, Next.js, TypeScript, Kotlin e Swif
 
 ---
 
-# 💼 Atualmente
+# Atualmente
 
 - 💻 Tech Lead na **Orange Labs**
 - 🚀 Desenvolvendo aplicações Web e Mobile para o segmento de delivery e pagamentos
@@ -62,13 +62,13 @@ Tenho experiência com **React, React Native, Next.js, TypeScript, Kotlin e Swif
 
 ---
 
-# 🚀 Produtos
+# Produtos
 
-## 🍔 Pigz Delivery (Web)
+## Pigz Delivery (Web)
 
 Sistema público utilizado para realização de pedidos em restaurantes.
 
-🔗 **Site:** https://pigz.com.br
+**Site:** https://pigz.com.br
 
 **Stack**
 
@@ -85,7 +85,7 @@ Sistema público utilizado para realização de pedidos em restaurantes.
 
 ---
 
-## 📱 Pigz (Android | iOS)
+## Pigz (Android | iOS)
 
 Aplicativo disponível para Android e iOS.
 
@@ -116,7 +116,7 @@ https://apps.apple.com/br/app/pigz/id1526557835
 
 ---
 
-# 💻 Tecnologias
+# Tecnologias
 
 ### Front-end
 
@@ -145,7 +145,7 @@ https://apps.apple.com/br/app/pigz/id1526557835
 
 ---
 
-# 📊 Estatísticas
+# Estatísticas
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Lucio&theme=react) |
 | :-: |
@@ -159,14 +159,14 @@ https://apps.apple.com/br/app/pigz/id1526557835
 
 ---
 
-# 📫 Contato
+# Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/joaolucioalmeida
-- 💻 GitHub: https://github.com/Joao-Lucio
-- 📧 E-mail: joao.silvarrr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joaolucioalmeida
+- GitHub: https://github.com/Joao-Lucio
+- E-mail: joao.silvarrr@gmail.com
 
 ---
 
 <p align="center">
-  <i>Sempre aprendendo. Sempre construindo.</i> 🚀
+  <i>Sempre aprendendo. Sempre construindo.</i>
 </p>
