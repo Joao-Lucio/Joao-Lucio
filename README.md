@@ -3,6 +3,17 @@
 **`Desenvolvedor Front-end`** 
 📍 Roraima, Brasil | 🎂 26 anos | 🎓 Sistemas de Informação - Estácio
 
+<!-- Pacman 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joao-Lucio/Joao-Lucio/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+-->
+
 ---
 
 <picture>
@@ -53,22 +64,14 @@ Sou um desenvolvedor apaixonado por criar **soluções tecnológicas que unem al
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joao-Lucio&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
-  />
+| ![Joao-Lucio Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joao-Lucio&mode-daily&theme=react&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joao-Lucio&hide=Html&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joao-Lucio&theme=react) |
+| :-: | :-: | :-: |
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucio&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joao-Lucio&theme=react) | ![](https://streak-stats.demolab.com?user=Joao-Lucio&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Lucio&theme=react&hide_border=true" />
 </p>
