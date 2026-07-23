@@ -7,12 +7,17 @@
 📍 Boa Vista - RR, Brasil
 
 <div align="left">
-
+  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joao-lucio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolucioalmeida/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-Lucio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.silvarrr@gmail.com)
 
 </div>
+
+<p align="left">
+  🌐 <strong>Portfolio:</strong> <a href="https://joao-lucio.vercel.app">joao-lucio.vercel.app</a>
+</p>
 
 <!-- Pacman 
 
